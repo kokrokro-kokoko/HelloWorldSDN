@@ -1,2 +1,0 @@
-# HelloWorldpetushok
-Repozitory
